@@ -1,5 +1,5 @@
 # Delloite
-Completed Data Analytics Job Simulation
+Data Analytics Job Simulation
 
 I completed Deloitte Australia's Data Analytics on @[Forage](urn:li:organization:68514998). In the simulation I:
  * Completed a Deloitte job simulation involving data analysis and forensic technology
